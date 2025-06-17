@@ -1,4 +1,4 @@
-# 🚌 Public Transportation System – Kal-Kav in server-side version only
+# 🚌 Public Transportation System 
 
 **Status:** Server-side project (Java + MySQL)
 
