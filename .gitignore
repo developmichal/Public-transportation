@@ -1,0 +1,35 @@
+# === קבצים שנוצרים ע"י קומפילציה ===
+*.class
+
+# === תיקיות בנייה של Maven ===
+target/
+
+# === קבצי לוגים וקבצים זמניים ===
+*.log
+*.tmp
+*.bak
+*.swp
+*~
+
+# === קבצי קונפיג סודיים או מקומיים ===
+.env
+*.env
+
+# === IDEs ===
+# IntelliJ
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# VSCode
+.vscode/
+
+# מערכת הפעלה
+.DS_Store
+Thumbs.db
