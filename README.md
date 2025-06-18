@@ -1,4 +1,4 @@
-# 🚌 Public Transportation System 
+#  Public Transportation System 
 
 **Status:** Server-side project (Java + MySQL)
 
